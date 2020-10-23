@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+
+
+    background-image: url( "pic02.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover ;
+    height: 100vh;
+}
+.viau{  margin-right: 30px;
+ 
+    
+
+}
+.one{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    margin-left:20px ;
+ 
+   
+
+}
+.two{
+   
+    width:900px;
+    height: 900px;
+    margin-bottom: -20px;
+ margin-left:20px ;
+ margin-top:10px ;
+ margin-right:70px ;
+
+  
+
+}
+.buttons {
+     margin-left: 70%;
+   margin-top: -40%;
+     
+   
+    
+  }
+  button{
+      width: 200px;
+      height:40px;
+      border: 1px solid white;
+      border-radius: 50px;
+      margin-bottom:10px;
+  }
+.mp3{
+background-color:fuchsia;
+
+
+} .mp4{
+    background-color:fuchsia;
+}
